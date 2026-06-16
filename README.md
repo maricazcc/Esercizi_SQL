@@ -1,6 +1,6 @@
 # Esercizi_SQL
 
-Il database è formato dalle seguenti tabelle:
+Il database UNIVERSITA è formato dalle seguenti tabelle:
 
 Tabella Dipartimenti
 - id_dipartimento INT AUTO_INCREMENT PRIMARY KEY
